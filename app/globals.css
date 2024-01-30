@@ -31,3 +31,21 @@ body {
     text-wrap: balance;
   }
 }
+
+.signup-btn{
+
+  background-color: rgb(71, 95, 255);
+  color: white;
+  border-radius: 3vh;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-left: 3vh;
+  padding-right: 3vh;
+}
+
+.inpt-class{
+
+  background-color: rgb(215, 215, 215);
+  border-radius: 3vh;
+  padding: 14px;
+}
